@@ -1,0 +1,2 @@
+# Run `git checkout Step0` to get started
+Run `git checkout Step0` to get started. Don't have `git` on your computer? Go to this website https://git-scm.com/book/en/v2/Getting-Started-Installing-Git and follow the instructions. Then, run `git checkout Step0` to start the interactive demo.
