@@ -48,4 +48,9 @@ You now want to add more code so you can edit the tasks you've added. Here is a 
 4. You will need to add more components. Based on what we have used, you can use `Button` to your advantage.
 5. In JavaScript, you can mutate arrays in place. How can you make a temporary copy of your tasks and change it before putting it back?
 
-
+## Moving on to the next step
+Once you are done, do
+```sh
+git checkout Step2
+```
+to complete the next step, and finish the workshop!
