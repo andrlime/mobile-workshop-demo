@@ -36,7 +36,7 @@ Your task is to make them work as described.
 Hint: make more state variables as necessary using `useState`. You can use arrays, such as in `useState([])`. Then, look at the functions defined by `addTask` and `clearTasks`. Complete these functions.
 
 ## Task 3: Rendering tasks
-To test Task 2, you need to render your tasks. To do this, we have provided you with an empty `map` function. This is the same `map` function as is used in `CS 111` and other functional programming classes and languages. It maps a function to a list.
+To test Task 2, you need to render your tasks. To do this, we have provided you with an empty `map` function. This is the same `map` function as is used in `CS 111` and other functional programming classes and languages. It maps a function to a list. In React, a list of components is directly rendered as those components.
 
 Note that if the way you implemented storing tasks is not using an array, you may have to change this function to work with your implementation.
 

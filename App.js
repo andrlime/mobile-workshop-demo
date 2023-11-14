@@ -35,7 +35,7 @@ export default function App() {
 
       {(...).map((task, index) => (
         <View key={index} style={{ flexDirection: 'row', alignItems: 'center', margin: 5, padding: 10, borderWidth: 1 }}>
-          <Text style={{ flex: 1 }}>{task}</Text>
+          <Text style={{ flex: 1 }}>{...}</Text>
         </View>
       ))}
 
