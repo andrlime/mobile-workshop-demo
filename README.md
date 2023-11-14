@@ -6,7 +6,7 @@ If you wish to use your solution, go back to Step1 but continue reading these in
 ## Task 1: Add colors to task descriptions
 Change `addTask` to apply styles to tasks based on what words they contain. If a task contains the phrase (you can use whatever you want) "Computer Science", make the task one color (if you can't decide, use red). If a task contains the phrase "Economics", make the task a different color (green if you can't decide). If a task contains neither, make it black.
 
-Note that you don't have to make new styles in the array at the bottom. You can apply styles in line, such as
+Note that you don't have to make new styles in the array at the bottom. You can apply styles in-line, such as
 ```ts
 <Text style={{color: "red"}}></Text>
 ```
